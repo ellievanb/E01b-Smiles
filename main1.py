@@ -18,8 +18,8 @@ arcade.draw_circle_filled(400, 300, 100, open_color.yellow_3)
 arcade.draw_circle_outline(400, 300, 100, open_color.black,4)
 
 #(x,y,width,height,color)
-arcade.draw_ellipse_filled(375,340,15,25,open_color.black)
-arcade.draw_ellipse_filled(425,340,15,25,open_color.black)
+arcade.draw_ellipse_filled(375,340,30,50,open_color.black)
+arcade.draw_ellipse_filled(425,340,30,50,open_color.black)
 arcade.draw_circle_filled(380,350,3,open_color.gray_2)
 arcade.draw_circle_filled(430,350,3,open_color.gray_2)
 

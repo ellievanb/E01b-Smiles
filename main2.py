@@ -19,8 +19,8 @@ arcade.draw_circle_filled(face_x, face_y, 100, open_color.yellow_3)
 arcade.draw_circle_outline(face_x + 0, face_y + 0, 100, open_color.black, 4)
 
 #(x,y,width,height,color)
-arcade.draw_ellipse_filled(face_x - 30, face_y + 35, 15, 25, open_color.black)
-arcade.draw_ellipse_filled(face_x + 30, face_y + 35, 15, 25, open_color.black)
+arcade.draw_ellipse_filled(face_x - 30, face_y + 35, 30,50, open_color.black)
+arcade.draw_ellipse_filled(face_x + 30, face_y + 35, 30,50, open_color.black)
 arcade.draw_circle_filled(face_x - 25, face_y + 45, 3, open_color.gray_2)
 arcade.draw_circle_filled(face_x + 35, face_y + 45, 3, open_color.gray_2)
 
